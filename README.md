@@ -19,10 +19,10 @@ MVCTrack is an enhanced framework for **3D single object tracking (3D SOT)** in 
 This repository provides the code for **MVCTrack**, which achieves state-of-the-art performance on the **NuScenes dataset**.
 
 ---
-//## Video
-// - Please watch this video to know more about our work.
-//[![Watch the video](https://img.youtube.com/vi/c-OPJ0PvvbA/maxresdefault.jpg)](https://www.youtube.com/watch?v=c-OPJ0PvvbA)
-
+<!-- ## Video
+  - Please watch this video to know more about our work.
+[![Watch the video](https://img.youtube.com/vi/c-OPJ0PvvbA/maxresdefault.jpg)](https://www.youtube.com/watch?v=c-OPJ0PvvbA)
+ -->
 
 ## Key Features
 ### **Multimodal-guided Virtual Cues Projection (MVCP)**
