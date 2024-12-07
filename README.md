@@ -23,6 +23,7 @@ This repository provides the code for **MVCTrack**, which achieves state-of-the-
   - Please watch this video to know more about our work.
 [![Watch the video](https://img.youtube.com/vi/c-OPJ0PvvbA/maxresdefault.jpg)](https://www.youtube.com/watch?v=c-OPJ0PvvbA)
  -->
+![framework](https://github.com/WindyHu001/MVCtrack/blob/master/figures/page.png)
 
 ## Key Features
 ### **Multimodal-guided Virtual Cues Projection (MVCP)**
