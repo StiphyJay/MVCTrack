@@ -6,7 +6,7 @@
 **Authors**: Zhaofeng Hu<sup>1†</sup>, Sifan Zhou<sup>2†*</sup>, Shibo Zhao<sup>3</sup>, Zhihang Yuan<sup>4</sup>  
 <sup>1</sup>Stony Brook University, <sup>2</sup>Southeast University, <sup>3</sup>Carnegie Mellon University, <sup>4</sup>Houmo AI  
 † Equal contribution, *Corresponding author  
-
+Paper: [arxiv](https://arxiv.org/abs/2412.02734)
 ---
 
 ## Overview
@@ -63,6 +63,19 @@ Here are the quick links to the detailed guides:
 Our implementation is based on [Open3DSOT](https://github.com/Ghostish/Open3DSOT), [BEVTrack](https://github.com/xmm-prio/BEVTrack), [P2P](https://github.com/haooozi/P2P), [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and [MVP](https://github.com/tianweiy/MVP). Thanks for the great open-source work!
 
 ## Citation
-If any parts of our paper and code help your research, please consider citing us and giving a star to our repository.
+If any parts of our paper and code help your research, please consider citing our paper and giving a star to our repository:
 
+```bibtex
+@article{jiang2024ptq4ris,
+  title={MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues},
+  author={Zhaofeng Hu and Sifan Zhou and Shibo Zhao and Zhihang Yuan},
+  year={2024},
+  eprint={2412.02734},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2412.02734}
+}
+```
 
+### License
+This repository is released under MIT License (see LICENSE file for details).
