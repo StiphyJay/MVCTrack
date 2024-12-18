@@ -66,7 +66,7 @@ Our implementation is based on [Open3DSOT](https://github.com/Ghostish/Open3DSOT
 If any parts of our paper and code help your research, please consider citing our paper and giving a star to our repository:
 
 ```bibtex
-@article{jiang2024ptq4ris,
+@article{hu2024mvctrackboosting3dpoint,
   title={MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues},
   author={Zhaofeng Hu and Sifan Zhou and Shibo Zhao and Zhihang Yuan},
   year={2024},
