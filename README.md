@@ -7,6 +7,7 @@
 <sup>1</sup>Stony Brook University, <sup>2</sup>Southeast University, <sup>3</sup>Carnegie Mellon University, <sup>4</sup>Houmo AI  
 † Equal contribution, *Corresponding author  
 Paper: [arxiv](https://arxiv.org/abs/2412.02734)
+Video: [Youtube](https://www.youtube.com/watch?v=c-OPJ0PvvbA&feature=youtu.be)
 ---
 
 ## Overview
