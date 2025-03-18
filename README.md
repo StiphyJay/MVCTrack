@@ -3,9 +3,9 @@
 </h1>
 
 
-**Authors**: Zhaofeng Hu<sup>1†</sup>, Sifan Zhou<sup>2†*</sup>, Shibo Zhao<sup>3</sup>, Zhihang Yuan<sup>4</sup>  
+<!--**Authors**: Zhaofeng Hu<sup>1†</sup>, Sifan Zhou<sup>2†*</sup>, Shibo Zhao<sup>3</sup>, Zhihang Yuan<sup>4</sup>  
 <sup>1</sup>Stony Brook University, <sup>2</sup>Southeast University, <sup>3</sup>Carnegie Mellon University, <sup>4</sup>Houmo AI  
-† Equal contribution, *Corresponding author  
+† Equal contribution, *Corresponding author-->  
 Paper: [arxiv](https://arxiv.org/abs/2412.02734)
 Video: [Youtube](https://www.youtube.com/watch?v=c-OPJ0PvvbA&feature=youtu.be)
 ---
