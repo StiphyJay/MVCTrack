@@ -1,6 +1,6 @@
 ## Dataset Preparation
 
-### KITTI
+<!-- ### KITTI
  - Download the data for `velodyne`, `calib`, and `label_02` from KITTI Tracking.
  - Unzip the downloaded files.
  - Put the unzipped files under the same folder as follows:
@@ -21,7 +21,7 @@
         --> [0000-0020] folders with velodynes .bin files
 ```
 ---
-
+-->
 ### NuScenes
  - Download the dataset from the download page.
  - Extract the downloaded files and ensure the following structure:
