@@ -1,5 +1,5 @@
 ## Dataset Preparation
-At present, we only support the implementation in nuScenes dataset. Due to the limited samples in KITTI, we haven't provide the implementation for KITTI. Will support KTII and Waymo in the future!
+At present, we only support the implementation in nuScenes dataset. Due to the limited samples in KITTI, we haven't provided the implementation for KITTI. Will support KTII and Waymo in the future!
 
 ### NuScenes
  - Download the dataset from the download page.
