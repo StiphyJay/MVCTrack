@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#6C63FF; font-family:Arial;">
-  🚀 ICRA2025: MVCTrack: Boosting 3D Point Cloud Tracking 🚀
+  🚀 ICRA2025: MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues 🚀
 </h1>
 
 
