@@ -47,3 +47,9 @@ conda activate mvc
 - Ensure your system has CUDA 11.8 installed to match the dependencies listed above.
 - Other dependencies like MMEngine, MMDet, MMDet3D, and YAPF will be installed automatically when running the setup or can be installed manually using pip.
 - For detailed instructions on environment setup, please refer to the project documentation.
+
+### Step 3: Install segmentor CenterNet2
+
+Please install [CenterNet2](https://github.com/xingyizhou/CenterNet2). 
+Make sure to add a link to [CenterNet2](https://github.com/xingyizhou/CenterNet2/tree/master/projects/CenterNet2) folder in your Python path.
+We will use CenterNet2 for 2D instance segmentation and CenterPoint for 3D detection. 
